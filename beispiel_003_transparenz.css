@@ -1,0 +1,13 @@
+p{
+    color: cadetblue;
+}
+h1{
+    color: brown;
+    background-color: coral;    
+    opacity: 0.75;/*Transparenz*/
+}
+h2{
+    background-color: cornflowerblue;
+    color: white;
+    opacity: 0.75;/*Kommazahl mit Punkt zu schreiben ist*/
+}

@@ -1,0 +1,13 @@
+p{
+    color: cadetblue;
+    font-size: 16px;/**Schriftgröße*/
+    font-family: Verdana;
+    font-weight: bold;/**Schriftgewicht*/
+    font-style: normal;/**Schriftstil*/
+}
+h1{
+    color: brown;
+    background-color: coral;
+    font-family: Courier New;
+    font-style: Italic;
+}
